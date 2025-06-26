@@ -53,41 +53,41 @@ Thers has been an alarming number of vehicle crashes occur annually, with a sign
 
 KEY INSIGHTS
 
-The fatality rate between year 2020-2024 was 49% which notably high. The average number of fatalities per crash is approximately 41, with some crashes causing over 200 deaths. Injuries per crash are notably high, averaging around 246.
-North Central had the highest number of vehicle crashes (14,478), followed by South West (11,028) and North West (7,243). South East and South South recorded the lowest crash counts, at 2,583 and 2,595, respectively.
-Total crashes increased significantly in 2021 and 2022 but showed a decline in 2023. 2024 data is incomplete. 2021 and 2022 were the years with the highest recorded crashes, suggesting a need for targeted analysis in those periods
-Factors Contributing to Crashes which include FTQ, SPV, DND & PWR;
+-The fatality rate between year 2020-2024 was 49% which notably high. The average number of fatalities per crash is approximately 41, with some crashes causing over 200 deaths. Injuries per crash are notably high, averaging around 246.
+-North Central had the highest number of vehicle crashes (14,478), followed by South West (11,028) and North West (7,243). South East and South South recorded the lowest crash counts, at 2,583 and 2,595, respectively.
+-Total crashes increased significantly in 2021 and 2022 but showed a decline in 2023. 2024 data is incomplete. 2021 and 2022 were the years with the highest recorded crashes, suggesting a need for targeted analysis in those periods
+-Factors Contributing to Crashes which include FTQ, SPV, DND & PWR;
 
-Failure to Yield Right of Way (FTQ) is a significant factor, with 12,341crash incidents meaning that the FTQ has a major impact in the road traffic accidents in Nigeria. High-crash areas like North Central and South West likely experience more FTQ incidents due to heavy traffic and limited enforcement of traffic laws. This is majorly caused by limited driver education and awareness about yielding laws,Poor enforcement of traffic regulations, especially at intersections and ack of infrastructure, such as functioning traffic signals and clear road signage.
+1) Failure to Yield Right of Way (FTQ) is a significant factor, with 12,341crash incidents meaning that the FTQ has a major impact in the road traffic accidents in Nigeria. High-crash areas like North Central and South West likely experience more FTQ incidents due to heavy traffic and limited enforcement of traffic laws. This is majorly caused by limited driver education and awareness about yielding laws,Poor enforcement of traffic regulations, especially at intersections and ack of infrastructure, such as functioning traffic signals and clear road signage.
 
-Poor Weather Conditions (PWR) and Driving Under the Influence (DAD) have relatively fewer incidents but may still be critical in specific contexts. North Central (32 cases) and South West (21 cases) have the highest recorded DAD incidents. Regions such as North East (1 case) and South South (3 cases) have minimal DAD-related crashes, suggesting that driving under the influence is more localized to certain areas. North Central (92 cases) and South West (44 cases) are most affected by poor weather conditions while South East (5 cases) and South South (9 cases), show relatively low impact, indicating regional disparities in weather-related incidents.
+2) Poor Weather Conditions (PWR) and Driving Under the Influence (DAD) have relatively fewer incidents but may still be critical in specific contexts. North Central (32 cases) and South West (21 cases) have the highest recorded DAD incidents. Regions such as North East (1 case) and South South (3 cases) have minimal DAD-related crashes, suggesting that driving under the influence is more localized to certain areas. North Central (92 cases) and South West (44 cases) are most affected by poor weather conditions while South East (5 cases) and South South (9 cases), show relatively low impact, indicating regional disparities in weather-related incidents.
 
-Other Factors and SPV (Special Purpose Vehicles) are the leading contributors to crashes, accounting for 19,914 and 19,634 cases respectively. SPV-related crashes are likely concentrated in regions with high industrial activity, major highways, and construction zones, such as North Central and South West.
+3) Other Factors and SPV (Special Purpose Vehicles) are the leading contributors to crashes, accounting for 19,914 and 19,634 cases respectively. SPV-related crashes are likely concentrated in regions with high industrial activity, major highways, and construction zones, such as North Central and South West.
 
 RECOMENDATIONS
 
-Focus on High-Crash Regions: Implement stricter road safety measures such as enforcing stricter penalties and regular checks for driving under the influence, in North Central and South West, which are hotspots for crashes
-Address Major Contributing Factors: Launch targeted campaigns on yielding right of way and general road etiquette to mitigate FTQ-related crashes, improve training and regulation for Special Purpose Vehicle (SPV) drivers, promote the use of vehicle features like fog lights and anti-skid brakes in affected areas and develop and disseminate weather-forecast-based driving advisories in North Central and South West, where weather-related crashes are most prevalent.
+- Focus on High-Crash Regions: Implement stricter road safety measures such as enforcing stricter penalties and regular checks for driving under the influence, in North Central and South West, which are hotspots for crashes
+- Address Major Contributing Factors: Launch targeted campaigns on yielding right of way and general road etiquette to mitigate FTQ-related crashes, improve training and regulation for Special Purpose Vehicle (SPV) drivers, promote the use of vehicle features like fog lights and anti-skid brakes in affected areas and develop and disseminate weather-forecast-based driving advisories in North Central and South West, where weather-related crashes are most prevalent.
 
-Infrastructure Enhancements:
+-Infrastructure Enhancements:
 
-Intersection Improvements: Install and maintain clear signage, road markings, and traffic lights at high-risk junctions.
+1) Intersection Improvements: Install and maintain clear signage, road markings, and traffic lights at high-risk junctions.
 
-Roundabout Optimization: Upgrade roundabouts with better signage and lane guidance to ensure smooth traffic flow.
+2) Roundabout Optimization: Upgrade roundabouts with better signage and lane guidance to ensure smooth traffic flow.
 
-Smart Traffic Systems: Deploy adaptive traffic signals to manage high-traffic intersections effectively, reducing the need for driver judgment in yielding scenarios.
+3) Smart Traffic Systems: Deploy adaptive traffic signals to manage high-traffic intersections effectively, reducing the need for driver judgment in yielding scenarios.
 
-Behavioral Nudges:
+-Behavioral Nudges:
 
-Place visible reminders such as “Yield Right of Way” signs in accident-prone areas.
+1) Place visible reminders such as “Yield Right of Way” signs in accident-prone areas.
 
-Use road surface markings and rumble strips to alert drivers to upcoming yield zones.
+2) Use road surface markings and rumble strips to alert drivers to upcoming yield zones.
 
-Technology Integration:
+-Technology Integration:
 
-Equip key intersections with cameras to monitor and penalize violations in real-time.
+1) Equip key intersections with cameras to monitor and penalize violations in real-time.
 
-Leverage public awareness by displaying statistics and messages on electronic billboards near high-risk areas to remind drivers of the consequences of FTQ.
+2) Leverage public awareness by displaying statistics and messages on electronic billboards near high-risk areas to remind drivers of the consequences of FTQ.
 
 In conclusion, 
 
