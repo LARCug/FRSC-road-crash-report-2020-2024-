@@ -54,8 +54,11 @@ Thers has been an alarming number of vehicle crashes occur annually, with a sign
 KEY INSIGHTS
 
 -The fatality rate between year 2020-2024 was 49% which notably high. The average number of fatalities per crash is approximately 41, with some crashes causing over 200 deaths. Injuries per crash are notably high, averaging around 246.
+
 -North Central had the highest number of vehicle crashes (14,478), followed by South West (11,028) and North West (7,243). South East and South South recorded the lowest crash counts, at 2,583 and 2,595, respectively.
+
 -Total crashes increased significantly in 2021 and 2022 but showed a decline in 2023. 2024 data is incomplete. 2021 and 2022 were the years with the highest recorded crashes, suggesting a need for targeted analysis in those periods
+
 -Factors Contributing to Crashes which include FTQ, SPV, DND & PWR;
 
 1) Failure to Yield Right of Way (FTQ) is a significant factor, with 12,341crash incidents meaning that the FTQ has a major impact in the road traffic accidents in Nigeria. High-crash areas like North Central and South West likely experience more FTQ incidents due to heavy traffic and limited enforcement of traffic laws. This is majorly caused by limited driver education and awareness about yielding laws,Poor enforcement of traffic regulations, especially at intersections and ack of infrastructure, such as functioning traffic signals and clear road signage.
@@ -67,6 +70,7 @@ KEY INSIGHTS
 RECOMENDATIONS
 
 - Focus on High-Crash Regions: Implement stricter road safety measures such as enforcing stricter penalties and regular checks for driving under the influence, in North Central and South West, which are hotspots for crashes
+  
 - Address Major Contributing Factors: Launch targeted campaigns on yielding right of way and general road etiquette to mitigate FTQ-related crashes, improve training and regulation for Special Purpose Vehicle (SPV) drivers, promote the use of vehicle features like fog lights and anti-skid brakes in affected areas and develop and disseminate weather-forecast-based driving advisories in North Central and South West, where weather-related crashes are most prevalent.
 
 -Infrastructure Enhancements:
